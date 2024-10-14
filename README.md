@@ -1,2 +1,2 @@
 # Scientific-Visualization
-Scientific Visualization- Assignments, Reviews, Projects and Presentation.
+Scientific Visualization- Assignments and Presentation.
